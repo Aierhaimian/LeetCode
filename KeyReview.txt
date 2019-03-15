@@ -1,4 +1,4 @@
-Breadth First Search专题：
+Breadth First Search：
     0994 Rotting Oranges
     0513 Minesweeper
     0863 All Nodes Distance K in Binary Tree
@@ -6,7 +6,10 @@ Breadth First Search专题：
 Tree:
 	0897 Increasing Order Search Tree
 
-BackTracking
+BackTracking:
 	017 Letter Combinations Of A Phone Number
 	046 Permutations
 	078 Subsets
+
+Array:
+	999 Available Captures for Rook
