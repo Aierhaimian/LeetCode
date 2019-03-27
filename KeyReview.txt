@@ -14,10 +14,16 @@ BackTracking:
 	078 Subsets
 
 Array:
-	999 Available Captures for Rook
-	509 Fibonacci Number -> 一题多解
+	0999 Available Captures for Rook
+	0509 Fibonacci Number -> 一题多解
+	0119 Pascal Triangle -> 一题多解，第三种解法很巧妙！
+	1020 Partition Array Into Three Parts With Equal Sum
+	0950 Reveal Cards In Increasing Order -> 用队列模拟
+	0835 Image Overlap -> 未完成
 	
-
 Hash Map:
 	1002 Find Common Characters
+	1013 Pairs of Songs With Total Durations Divisible by 60 -> 不理解其实现方法
 
+Binary Search:
+	1014 Capacity To Ship Packages Within D Days
