@@ -4,6 +4,7 @@ Breadth First Search：
     0863 All Nodes Distance K in Binary Tree
 Depth First Search:
 	0104 Maximum Depth of Binary Tree 主要熟悉DFS的递归和非递归写法
+	0230 Kth Smallest Element in a BST
 
 Tree:
 	0897 Increasing Order Search Tree
@@ -12,6 +13,7 @@ BackTracking:
 	017 Letter Combinations Of A Phone Number
 	046 Permutations
 	078 Subsets
+	1020 Number of Enclaves -> Flood Fill
 
 Array:
 	0999 Available Captures for Rook
@@ -20,6 +22,7 @@ Array:
 	1020 Partition Array Into Three Parts With Equal Sum
 	0950 Reveal Cards In Increasing Order -> 用队列模拟
 	0835 Image Overlap -> 未完成
+	1018 Binary Prefix Divisible By 5 
 	
 Hash Map:
 	1002 Find Common Characters
@@ -27,3 +30,9 @@ Hash Map:
 
 Binary Search:
 	1014 Capacity To Ship Packages Within D Days
+	0744 Find Smallest Letter Greater Than Target
+	0475 Heaters -> 重点复习
+	0230 Kth Smallest Element in a BST -> Binary Search Tree & DFS
+
+Math
+	1017 Convert to Base -2
