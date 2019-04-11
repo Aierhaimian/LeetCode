@@ -2,12 +2,17 @@ Breadth First Search：
     0994 Rotting Oranges
     0513 Minesweeper
     0863 All Nodes Distance K in Binary Tree
+
 Depth First Search:
 	0104 Maximum Depth of Binary Tree 主要熟悉DFS的递归和非递归写法
 	0230 Kth Smallest Element in a BST
+	0129 Sum Root to Leaf Numbers
+	1022 Sum of Root To Leaf Binary Numbers
 
 Tree:
 	0897 Increasing Order Search Tree
+	0589 N-ary Tree Preorder Traversal -> N叉树的前序、中序、后序的递归与非递归遍历(借助栈)
+	0590 N-ary Tree Postorder Traversal
 
 BackTracking:
 	017 Letter Combinations Of A Phone Number
@@ -22,8 +27,8 @@ Array:
 	1020 Partition Array Into Three Parts With Equal Sum
 	0950 Reveal Cards In Increasing Order -> 用队列模拟
 	0835 Image Overlap -> 未完成
-	1018 Binary Prefix Divisible By 5 
-	
+	1018 Binary Prefix Divisible By 5
+
 Hash Map:
 	1002 Find Common Characters
 	1013 Pairs of Songs With Total Durations Divisible by 60 -> 不理解其实现方法
@@ -36,3 +41,6 @@ Binary Search:
 
 Math
 	1017 Convert to Base -2
+
+Dynamic Programming
+	0120 Triangle -> 三种解法，层层递进
