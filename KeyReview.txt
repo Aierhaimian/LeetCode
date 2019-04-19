@@ -8,6 +8,7 @@ Depth First Search:
 	0230 Kth Smallest Element in a BST
 	0129 Sum Root to Leaf Numbers
 	1022 Sum of Root To Leaf Binary Numbers
+	0337 House Robber III
 
 Tree:
 	0897 Increasing Order Search Tree
@@ -19,6 +20,7 @@ BackTracking:
 	046 Permutations
 	078 Subsets
 	1020 Number of Enclaves -> Flood Fill
+	0060 Permutation
 
 Array:
 	0999 Available Captures for Rook
@@ -28,10 +30,12 @@ Array:
 	0950 Reveal Cards In Increasing Order -> 用队列模拟
 	0835 Image Overlap -> 未完成
 	1018 Binary Prefix Divisible By 5
+	0054 Spiral Matrix -> 走矩阵四个方向的题目，有通用的方法
 
 Hash Map:
 	1002 Find Common Characters
 	1013 Pairs of Songs With Total Durations Divisible by 60 -> 不理解其实现方法
+	0884 Uncommon Words from Two Sentences
 
 Binary Search:
 	1014 Capacity To Ship Packages Within D Days
@@ -47,3 +51,9 @@ Dynamic Programming
 
 Strings
 	0893 Groups of Special-Equivalent Strings
+
+Greedy
+	0055 Jump Game
+
+Sort
+	0056 Merge Intervals -> 未解决
