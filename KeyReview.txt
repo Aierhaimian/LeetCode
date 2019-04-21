@@ -28,7 +28,7 @@ Array:
 	0119 Pascal Triangle -> 一题多解，第三种解法很巧妙！
 	1020 Partition Array Into Three Parts With Equal Sum
 	0950 Reveal Cards In Increasing Order -> 用队列模拟
-	0835 Image Overlap -> 未完成
+	0835 Image Overlap -> To do
 	1018 Binary Prefix Divisible By 5
 	0054 Spiral Matrix -> 走矩阵四个方向的题目，有通用的方法
 
@@ -54,6 +54,10 @@ Strings
 
 Greedy
 	0055 Jump Game
+	1029 Two City Scheduling
 
 Sort
-	0056 Merge Intervals -> 未解决
+	0056 Merge Intervals -> To do
+
+Trie
+	1032 Stream of Characters -> To do
