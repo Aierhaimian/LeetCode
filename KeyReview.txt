@@ -48,6 +48,8 @@ Math
 
 Dynamic Programming
 	0120 Triangle -> 三种解法，层层递进
+	0416 Partition Equal Subset Sum -> 0-1 背包问题
+	0322 Coin Change -> 0-1 完全背包问题
 
 Strings
 	0893 Groups of Special-Equivalent Strings
