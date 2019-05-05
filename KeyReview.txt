@@ -2,6 +2,7 @@ Breadth First Search：
     0994 Rotting Oranges
     0513 Minesweeper
     0863 All Nodes Distance K in Binary Tree
+    1036 Escape a Large Maze -> 走矩阵问题
 
 Depth First Search:
 	0104 Maximum Depth of Binary Tree 主要熟悉DFS的递归和非递归写法
@@ -53,10 +54,13 @@ Dynamic Programming
 	0322 Coin Change -> 0-1 完全背包问题
 	0139 Word Break -> Trie树 + 动态规划 （重点学习）
 	0010 Regular Expression Matching -> 正则匹配，三种解法，详细介绍，(重点学习)
+	1035 Uncrossed Lines -> 典型的动态规划题（重点学习）
 
 Strings
 	0893 Groups of Special-Equivalent Strings
 	0008 String To Integer -> 自己做的，各种边界条件有点多。。。
+	0028 Implement strStr() -> 字符串匹配算法：BF/RK/BM/KMP
+
 
 Greedy
 	0055 Jump Game
@@ -67,3 +71,6 @@ Sort
 
 Trie
 	1032 Stream of Characters -> To do
+
+Linked List
+	0023 Merge k Sorted Lists -> 链表典型范例
