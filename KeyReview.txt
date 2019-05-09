@@ -38,6 +38,7 @@ Hash Map:
 	1002 Find Common Characters
 	1013 Pairs of Songs With Total Durations Divisible by 60 -> 不理解其实现方法
 	0884 Uncommon Words from Two Sentences
+    0535 Encode and Decode TinyURL -> 不知其解法如何
 
 Binary Search:
 	1014 Capacity To Ship Packages Within D Days
@@ -59,7 +60,8 @@ Dynamic Programming
 Strings
 	0893 Groups of Special-Equivalent Strings
 	0008 String To Integer -> 自己做的，各种边界条件有点多。。。
-	0028 Implement strStr() -> 字符串匹配算法：BF/RK/BM/KMP
+	0028 Implement strStr() -> 字符串匹配算法：BF/RK/BM/KMP (重点学习)
+	0030 Substring with Concatenation of All Words
 
 
 Greedy
