@@ -14,7 +14,7 @@ public:
         visited = vector<vector<bool>>(m, vector<bool>(n, false));
         
         for(size_t i=0; i<board.size(); i++) {
-            for(size_t j=0; j<board[i].size(); i++) {
+            for(size_t j=0; j<board[i].size(); j++) {
                 if(searchWord(board, word, 0, i, j))
                     return true;
             }
